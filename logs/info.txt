@@ -1,0 +1,7 @@
+username: Harukadzan
+date: Thu Oct 29 16:50:56 +05 2026
+name: aruzhan
+oc: Linux
+info:                total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       1.7Gi       5.3Gi        19Mi       813Mi       5.9Gi
+Swap:          2.0Gi          0B       2.0Gi
